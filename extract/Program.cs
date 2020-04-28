@@ -4,7 +4,6 @@ using System.Linq;
 
 //SharpCompress - https://github.com/adamhathcock/sharpcompress
 using SharpCompress.Archives;
-using SharpCompress.Archives.Rar;
 using SharpCompress.Common;
 
 namespace extract
